@@ -70,7 +70,3 @@ Combino el razonamiento analítico y el modelado de datos con el desarrollo de s
 * **Tecnologías:** n8n, Webhooks, REST APIs
 * **Aportes clave:** Diseño de flujos que conectan servicios de terceros para reducir tareas manuales e incorporar modelos generativos.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=tokyonight" alt="Lenguajes Principales" />
-</p>
