@@ -1,3 +1,7 @@
+<p align="right">
+  <a href="./README.es.md">🇪🇸 Leer en Español</a> | <b>🇺🇸 English</b>
+</p>
+
 # Hi there, I'm Máximo Valvasoni 👋
 ### Systems Information Engineering Student | Full-Stack Developer & Automation Enthusiast
 
