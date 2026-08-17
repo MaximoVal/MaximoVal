@@ -5,9 +5,9 @@
 # ¡Hola! Soy Máximo Valvasoni 👋
 ### Estudiante de Ingeniería en Sistemas | Desarrollador Full-Stack y Automatización
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/maximo-valvasoni-997668394)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaximoVal)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maximovalvasoni@gmail.com)
 
 ---
 
@@ -48,9 +48,8 @@ Combino el razonamiento analítico y el modelado de datos con el desarrollo de s
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 ### Control de Versiones y Entorno
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
 
 ---
 
@@ -62,18 +61,14 @@ Combino el razonamiento analítico y el modelado de datos con el desarrollo de s
 * **Aportes clave:** Implementación del modelo relacional para gestión de cupones y beneficios, panel de control administrativo y accesibilidad web adaptada a estándares internacionales.
 
 ### 🏋️ [Sistema de Gestión de Gimnasios](https://github.com/tu-usuario/gestion-gimnasio)
-> **Plataforma de Administración y Control de Membresías**
+> **Plataforma de Administración y Control de Membresías (en desarrollo)**
 * **Tecnologías:** Node.js, Express, MySQL, TypeScript
 * **Aportes clave:** Control integral del ciclo de vida del socio, gestión de suscripciones y lógica de persistencia relacional.
 
-### ⚡ [Automatizaciones de Procesos & Flujos con IA](https://github.com/tu-usuario/n8n-automations)
+### ⚡ Automatizaciones de Procesos & Flujos con IA
 > **Pipelines de Integración Continua de Tareas**
 * **Tecnologías:** n8n, Webhooks, REST APIs
 * **Aportes clave:** Diseño de flujos que conectan servicios de terceros para reducir tareas manuales e incorporar modelos generativos.
-
----
-
-## 📊 Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
